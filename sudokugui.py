@@ -1,5 +1,5 @@
 import pygame
-from SudokuSolution import Sudoku
+from sudokusolution import Sudoku
 
 pygame.init()
 screen = pygame.display.set_mode((500, 500))
