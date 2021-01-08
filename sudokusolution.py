@@ -1,6 +1,5 @@
 import time
 
-
 class Sudoku:
     def __init__(self, sudoku=None):
         if sudoku is None:
